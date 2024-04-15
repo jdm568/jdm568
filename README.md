@@ -8,7 +8,7 @@
   <a href="mailto:jdsm568@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href=https://www.linkedin.com/in/jasmine-mitchell-4185b1139/">
+  <a href="https://www.linkedin.com/in/jasmine-mitchell-4185b1139/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://jdm568.github.io" target="_blank">
@@ -21,8 +21,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,gradle,maven,js,html,css,git,github,kafka,docker,kubernetes,heroku,grafana" /><br>
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,tensorflow,raspberrypi,nodejs,c,grafana,sql" /><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,c,py,gradle,maven,js,html,css,git,github,kafka,docker,kubernetes,grafana" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,tensorflow,raspberrypi,nodejs" /><br>
      <img src="https://skillicons.dev/icons?i=vscode,atom" />
 </div>
 
