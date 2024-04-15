@@ -42,14 +42,29 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-jdm568.vercel.app/?user=jdm568&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-jdm568.vercel.app/api?username=jdm568&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-jdm568.vercel.app/api/top-langs/?username=jdm568&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=jdm568&count_private=true&theme=react&border_radius=10" alt="streak stats"/> <br>
+  <img width=500 src="https://github-readme-stats.vercel.app/api?username=jdm568&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /><br/>
+  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdm568&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
+<br/>
+<hr/>
 
+<div align=center>
+  <h2>🏆 My Trophies 🏆</h2>
+  <img width=500 align="center" src="https://github-profile-trophy.vercel.app/?username=jdm568&theme=react&layout=compactborder_radius=10&size_weight=0.5&count_weight=0.5" alt="trophies"/> <br>
+</div>
+
+<br/>
+<hr/>
+
+<div align=center>
+ <h2>💭 Random Dev Quote 💭</h2> 
+ <img width=500 align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&layout=compactborder_radius=10&size_weight=0.5&count_weight=0.5" alt="Quote"/> <br>
+</div>
+
+
+<br/><br/>
 <hr/>
 
 <br/>
