@@ -21,8 +21,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,c,py,tensorflow,gradle,maven,js,nodejs,html,css,git,github,kafka,docker,kubernetes,grafana" /><br>
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,raspberrypi" /><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,c,py,tensorflow,gradle,maven,js,nodejs,html,css,git,github,kafka,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,raspberrypi,kubernetes,grafana" /><br>
      <img src="https://skillicons.dev/icons?i=vscode,atom" />
 </div>
 
